@@ -1,0 +1,19 @@
+.not-found-main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.not-found-sub-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.not-found-image {
+  height: 300px;
+}
+.not-found-heading {
+  font-family: 'Roboto';
+}
+.not-found-description {
+  font-family: 'Roboto';
+}

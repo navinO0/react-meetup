@@ -1,0 +1,61 @@
+.home-main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.meet-image {
+  height: 300px;
+}
+.home-sub-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.register-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.un-register-home-heading {
+  text-align: center;
+  font-size: 'Roboto';
+  color: #334155;
+}
+.un-register-home-description {
+  font-family: 'Roboto';
+  color: #475569;
+}
+.register-now-btn {
+  background-color: #3b82f6;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 5px;
+  font-size: 17px;
+  cursor: pointer;
+  outline: none;
+}
+.registered-main-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.registered-username {
+  font-family: 'Roboto';
+  font-size: 50px;
+  color: #3b82f6;
+  margin-bottom: 0px;
+}
+.registered-topic {
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-left: 0px;
+  color: #64748b;
+}
